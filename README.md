@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Development.**
  
  🌱 I’m currently learning **DSA, Android**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 👯 I’m looking to collaborate on **OpenSource Projects**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Java, SQL, AWS... or anything [here](https://github.com/yuvarajrece/yuvarajrece/issues)**
+
+⚡ Fun fact **Games, Mems**
 
  </div>
  
