@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Development.**
  
- 🌱 I’m currently learning **DSA, Android**
+ 🌱 I’m currently learning **DSA, MERN**
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,vscode,github,figma,tailwind,git,aws,idea,eclipse,azure" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,mongodb,c,java,postman" /> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,mongodb,ReactJs,c,java,postman" /> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <br>
 </div>
 
 <br/>
