@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Development.**
  
- 🌱 I’m currently learning **DSA, MERN**
+ 🌱 I’m currently doing **DSA**
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
