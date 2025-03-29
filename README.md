@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **OpenSource Projects**
- 
- 🌱 I’m currently doing **DSA**
+ 🔭 I’m currently working on **OpenSource Projects** **& DSA** 
  
 💬 Ask me about **Java, JavaScript, SQL, AWS... or anything [here](https://github.com/yuvarajrece/yuvarajrece/issues)**
 
