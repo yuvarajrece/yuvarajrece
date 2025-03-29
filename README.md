@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Development.**
+ 🔭 I’m currently working on **OpenSource Projects**
  
  🌱 I’m currently doing **DSA**
-
- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-💬 Ask me about **Java, SQL, AWS... or anything [here](https://github.com/yuvarajrece/yuvarajrece/issues)**
+ 
+💬 Ask me about **Java, JavaScript, SQL, AWS... or anything [here](https://github.com/yuvarajrece/yuvarajrece/issues)**
 
 ⚡ Fun fact **Games, Mems**
 
